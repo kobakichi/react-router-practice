@@ -2,8 +2,8 @@ import React from "react";
 
 export const Home: React.FC = () => {
   return (
-    <div>
-      <p>Home</p>
-    </div>
+    <>
+      <h2>Home</h2>
+    </>
   );
 };

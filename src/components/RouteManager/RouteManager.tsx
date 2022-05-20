@@ -19,7 +19,6 @@ export const RouteManager: React.FC = () => {
           <Route path="/Contact" element={<Contact />} />
         </Routes>
       </div>
-      ;
     </Router>
   );
 };
